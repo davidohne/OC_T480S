@@ -1,5 +1,6 @@
 # OC_T480S
 - Open Core EFI for Lenovo T480S
+- Running macOS Ventura 13.6 at the moment
 
 # Important Remarks about this EFI
 - I'm using a Dell DW1820A wifi card,
